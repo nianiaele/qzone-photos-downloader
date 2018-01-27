@@ -1,0 +1,15 @@
+timeOutLimit:10
+
+dbhost:localhost
+
+dbuser:root
+
+dbpasswd:123456
+
+db:qzone
+
+port:3306
+
+charset:utf8
+
+path:'G:\pp'
