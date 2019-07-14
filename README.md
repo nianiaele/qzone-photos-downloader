@@ -7,7 +7,7 @@ Web crawler for qzone photos. Support to travsere a range of account and downloa
 ## Environment
 windows 7
 
-## Build with
+## Built with
 - [requests](https://2.python-requests.org/en/master/)
 - [MySQL](https://www.mysql.com/)
 
