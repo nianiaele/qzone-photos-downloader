@@ -1,6 +1,6 @@
 # qzone photos downloader
 
-qq空间照片下载器，支持遍历QQ号段，下载所有可访问到的相册。具体使用方式参见 说明.doc文档
+qq空间照片下载器，支持遍历QQ号段，下载所有可访问到的相册。具体使用方式参见 [说明.doc](https://github.com/nianiaele/qzonePicClawer/blob/master/%E8%AF%B4%E6%98%8E.docx)文档
 
 Web crawler for qzone photos. Support to travsere a range of account and download all possible ablums. 
 
